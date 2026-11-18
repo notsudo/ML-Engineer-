@@ -1,0 +1,20 @@
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Pipenv
+# Keep Pipfile and Pipfile.lock tracked
